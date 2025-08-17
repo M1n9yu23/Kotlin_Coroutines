@@ -1,4 +1,4 @@
-package coroutines_study.`103_suspension`
+package coroutines_study.f_103_suspension
 
 import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit

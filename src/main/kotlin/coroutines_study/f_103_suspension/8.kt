@@ -1,4 +1,4 @@
-package coroutines_study.`103_suspension`
+package coroutines_study.f_103_suspension
 
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch

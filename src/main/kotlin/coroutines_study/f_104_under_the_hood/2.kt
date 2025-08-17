@@ -1,4 +1,4 @@
-package coroutines_study.`104_under_the_hood`
+package coroutines_study.f_104_under_the_hood
 
 import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit
