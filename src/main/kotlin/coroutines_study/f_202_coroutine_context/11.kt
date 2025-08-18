@@ -1,0 +1,9 @@
+package coroutines_study.f_202_coroutine_context
+
+import kotlin.coroutines.CoroutineContext
+
+class MyCustomContext : CoroutineContext.Element {
+    override val key: CoroutineContext.Key<*> = Key
+
+    companion object Key : CoroutineContext.Key<MyCustomContext>
+}
